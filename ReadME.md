@@ -16,5 +16,4 @@ The objective was to design a clean, modern, and conversion-focused desktop land
 * **Standard E-commerce Footer:** Organized and easy to navigate.
 * **Visual Hierarchy:** A clear and logical flow guides the user down the page.
 
-[StepX Landing Page Preview](<img width="1440" height="2414" alt="Home Page (1)" src="https://github.com/user-attachments/assets/30bbe607-7c2b-4074-920b-18b524868c05" />
-)
+[StepX Landing Page Preview](Home Page (1).png)
